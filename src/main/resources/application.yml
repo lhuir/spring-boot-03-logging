@@ -1,0 +1,6 @@
+#logging:
+#  level:
+#   com:
+#    atguigu: trace
+#  #file: D:/springboot.log #logging.paths
+#  path: /spring/log
