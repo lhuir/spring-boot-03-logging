@@ -11,12 +11,13 @@ public class HellController {
     @RequestMapping("/hello")
     @ResponseBody
     public String show(){
-        // 返回字符串
+        // 返回字符串1
         return "hello world!";
     }
 
     @RequestMapping("/success")
     public String success(){
+        // 跳转success.html页面12
         return "success";
     }
 
