@@ -1,5 +1,7 @@
 package com.atguigu.springboot03logging.controller;
 
 public class test {
-  hi()
+  public void hi() {
+
+  }
 }
